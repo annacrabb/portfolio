@@ -8066,11 +8066,7 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: rgba(var(--bs-danger-rgb), var(--bs-text-opacity)) !important;
 }
-/* light purple trophies */
-/* .purple-trophy {
-  --bs-text-opacity: 1;
-  color: rgba(var(--bs-purple-trophy), var(--bs-text-opacity)) !important; */
-}
+
 
 .text-light {
   --bs-text-opacity: 1;
@@ -10983,6 +10979,6 @@ section.resume-section .resume-section-content {
 
 @media (min-width: 992px){
 p, body, li {
-  font-size: 1.2em;
+  font-size: 1.15em;
 }
 }
